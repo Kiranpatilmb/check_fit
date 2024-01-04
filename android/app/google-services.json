@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987253464728",
+    "project_id": "check-fit-a970f",
+    "storage_bucket": "check-fit-a970f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987253464728:android:765e369efeb6b8568e7aed",
+        "android_client_info": {
+          "package_name": "com.demo.check_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987253464728-855qggn5op5qv6uc2t8bbo5rpmqebhqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ITxFXsYZBuy9hhYsdlL_FjCjWTb8nes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987253464728-855qggn5op5qv6uc2t8bbo5rpmqebhqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
